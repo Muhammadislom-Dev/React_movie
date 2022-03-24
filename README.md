@@ -1,3 +1,8 @@
+https://reactmovies-2022.netlify.app/
+https://t.me/Muhammadislom_Dev
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
